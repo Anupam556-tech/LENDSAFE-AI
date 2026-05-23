@@ -86,3 +86,4 @@ MIT License © 2026 LendSafe AI
 ## 🙋‍♂️ Author
 
 Built with ❤️ — feel free to connect on [LinkedIn](#) or raise an issue if you find a bug!
+(https://www.linkedin.com/in/anupam-pandey-b46752396/)
